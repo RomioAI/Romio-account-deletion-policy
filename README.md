@@ -1,7 +1,7 @@
 # Account Deletion Policy – Romio App
 
 Users can delete their Romio account at any time through:
-- The in-app **"Delete Account"** button (Settings > Account > Delete Account)
+- The in-app **"Delete Account"** button (Profile > Settings > Delete Account)
 - Or by emailing **marcolous11@gmail.com**
 
 ## Data Deleted
