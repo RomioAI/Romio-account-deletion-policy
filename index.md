@@ -1,16 +1,19 @@
-# Account Deletion - Romio App
+# Account Deletion Policy – Romio App
 
-To request account deletion from **Romio**, please email `marcolous11@gmail.com` or use the in-app "Delete Account" button.
+Users can delete their Romio account at any time through:
+- The in-app **"Delete Account"** button (Settings > Account > Delete Account)
+- Or by emailing **marcolous11@gmail.com**
 
-## What data is deleted
-- User account from Supabase
+## Data Deleted
+- User account and profile from Supabase
 - All user-associated metadata
 
-## What is retained
-- None. Data is fully removed from the database.
+## Data Retained
+- None by default  
+- However, certain minimal data may be retained if required by law, regulatory, or security obligations (e.g., fraud prevention, legal compliance).  
 
-## Retention period
-- Deleted immediately upon request
+## Retention Period
+- Data is deleted immediately after a deletion request is processed.
 
 ## Contact
-If you need help, email `marcolous11@gmail.com`
+If you need assistance, please email **marcolous11@gmail.com**
